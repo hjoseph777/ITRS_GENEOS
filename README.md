@@ -1,6 +1,6 @@
 # ITRS Geneos: Standard vs. OpenTelemetry Integration for Hjosephtest Server Monitoring
 #### Comparative Monitoring Approaches Flowchart Author  Harry Joseph Date: 2023-09-25 Github Link: https://github.com/hjoseph777/readme.md
-This flowchart compares the monitoring approaches for a Hjosephtest server using ITRS Geneos with both the standard setup and the integration of OpenTelemetry. The flowchart highlights the key differences and benefits of each approach, providing a clear visual representation of the monitoring process. T
+This flowchart compares the monitoring approaches for a Hjosephtest server using ITRS Geneos with both the standard setup and the integration of OpenTelemetry. The flowchart highlights the key differences and benefits of each approach, providing a clear visual representation of the monitoring process. click <-> To expand image
 
 ```mermaid
 flowchart TD
