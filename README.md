@@ -1,7 +1,6 @@
 # ITRS Geneos: Standard vs. OpenTelemetry Integration for Hjosephtest Server Monitoring
 #### Comparative Monitoring Approaches Flowchart Author  Harry Joseph Date: 2023-09-25 Github Link: https://github.com/hjoseph777/readme.md
-This flowchart compares the monitoring approaches for a Hjosephtest server using ITRS Geneos with both the standard setup and the integration of OpenTelemetry. The flowchart highlights the key differences and benefits of each approach, providing a clear visual representation of the monitoring process. T
-
+This flowchart compares the monitoring approaches for a Hjosephtest server using ITRS Geneos with both the standard setup and the integration of OpenTelemetry. The flowchart highlights the key differences and benefits of each approach, providing a clear visual representation of the monitoring process. ***Click <---> to expand***
 ```mermaid
 flowchart TD
     %% Define improved style classes with better contrast and readability
@@ -170,7 +169,7 @@ flowchart TD
 
 
 
-## Advantages of OpenTelemetry Integration
+## 🟢Advantages of OpenTelemetry Integration
 
 1. **Standardization**: Industry-standard protocol reduces vendor lock-in
 2. **Instrumentation Reuse**: Single instrumentation for multiple observability tools
@@ -179,7 +178,7 @@ flowchart TD
 5. **Complete Observability**: Unified metrics, logs, and traces collection
 6. **Modern Architecture Support**: Better suited for cloud-native applications
 
-## Advantages of Standard Geneos Setup
+## 🔵Advantages of Standard Geneos Setup
 
 1. **Mature Ecosystem**: Well-established plugins with proven reliability
 2. **Specialized Monitoring**: Purpose-built tools for specific systems
